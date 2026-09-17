@@ -1,0 +1,1661 @@
+Conversación con Gemini
+yo se mas acerca de la empresa quisiera presentar
+
+¡Excelente decisión! Exponer la Descripción del Proyecto es la mejor parte para quien conoce a fondo el negocio, porque te permite transmitir con naturalidad el impacto real que tendrá el sistema en la Pollería Dayana.
+
+Para lucirte en la exposición, aquí tienes el guion exacto con el paso a paso de lo que debes decir cuando pases tus diapositivas:
+
+Guion de Exposición: Parte 1 — Descripción del Proyecto
+
+1. Carátula y Bienvenida:
+
+"Buenas tardes profesora y compañeros. El día de hoy nuestro grupo presentará el análisis y diseño del sistema web para la Pollería Dayana, desarrollada bajo el estándar ISO/IEC/IEEE 29148. En esta primera parte, les explicaré la problemática de la empresa y la solución integral que proponemos."   
+PDF
+
+2. Propósito Empresarial (Misión y Visión):
+
+"Pollería Dayana es un negocio tradicional de Cusco reconocido por su sabor. Sin embargo, la atención telefónica actual genera cuellos de botella en horas punta. Nuestra misión con este software es modernizar el canal de pedidos a distancia mediante una plataforma web ágil y con un sistema de recompensas, con la visión de posicionar a la pollería como un referente de transformación digital en la región."   
+PDF
++ 1
+
+3. Alcance del Proyecto e Innovaciones:
+
+"El alcance contempla un ecosistema web completo que automatiza el flujo de venta de extremo a extremo:   
+PDF
+
+Catálogo y Pedidos: El cliente arma su carrito de forma autónoma.   
+PDF
+
+Dayana Puntos (Fidelización): Es nuestra propuesta de gamificación. Los clientes acumulan puntos por cada producto comprado —desde 0.5 puntos en bebidas hasta 12 puntos en parrillas familiares— y pueden canjearlos por postres, bebidas o un octavo de pollo gratis.   
+PDF
++ 1
+
+DayanaBot: Un chatbot asistente para resolver dudas de estado de pedido y cobertura sin saturar al personal.   
+PDF
+
+KDS (Pantalla de Cocina) y Delivery: Las comandas llegan digitalmente a la cocina en tiempo real y el despachador asigna las rutas de reparto."*   
+PDF
+
+4. Prototipo Web y Diagrama BPMN:
+
+"En el prototipo de interfaz vemos la simplicidad para el usuario y el control visual en el KDS para la cocina. Como refleja nuestro Diagrama BPMN, eliminamos la toma manual por teléfono: el pedido ingresa por la web, activa la comanda en cocina, suma automáticamente los Dayana Puntos y gestiona la entrega de forma fluida. A continuación, doy pase a mi compañero para explicar la arquitectura técnica."   
+PDF
++ 1
+
+💬 Mensaje para coordinar en tu grupo de WhatsApp:
+"Chicos, como yo conozco a fondo los procesos de la pollería, yo me encargo de exponer el Bloque 1 (Descripción del Proyecto, Alcance, Prototipo y BPMN).   
+PDF
+
+¿Quiénes se dividen el Bloque 2 (Diagrama de Componentes) y el Bloque 3 (Diagrama de Distribución)?"
+
+vamos a exponer
+
+¡Todo listo! Tienes la ventaja de conocer la pollería de primera mano, así que habla con seguridad y naturalidad.
+
+Asegúrate de tener abierta la diapositiva de la Descripción del Proyecto y apóyate en estos puntos clave durante tu turno:
+
+Paso 1 (Introducción): Saluda, presenta el proyecto de la Pollería Dayana bajo la norma ISO 29148 y menciona que la meta es eliminar los cuellos de botella de la atención telefónica.   
+PDF
+
+Paso 2 (Alcance): Destaca el canal web, el sistema "Dayana Puntos" (acumular puntos para canjear bebidas o pollo gratis), el DayanaBot para consultas y el KDS en cocina.   
+PDF
+
+Paso 3 (Flujo y BPMN): Explica brevemente con el gráfico cómo el pedido pasa automáticamente de la web a la pantalla de cocina y al repartidor sin margen de error humano.   
+PDF
+
+Respira profundo, proyecta buena voz y dale el pase a tus compañeros cuando termines con la parte técnica. ¡Muchos éxitos en la exposición!
+
+como repartimos el tema
+
+Aquí tienes la distribución exacta para los 4 integrantes de tu grupo, respetando los 3 bloques solicitados por la docente y aprovechando tu dominio sobre la empresa:
+
+Repartición del Tema para la Exposición
+
+1. Integrante 1 (Tú - Carlos): Bloque 1 — Descripción del Proyecto
+
+Contenido: Carátula, Misión, Visión, Alcance del negocio y la propuesta de valor.   
+PDF
+
+Por qué tú: Conoces a fondo la Pollería Dayana y puedes explicar con naturalidad la necesidad de digitalizar el canal de ventas para Cusco.   
+PDF
+
+2. Integrante 2 (Alexandra): Bloque 1 — Innovaciones, Prototipo y BPMN
+
+Contenido: Presentación de las funciones estrella (Dayana Puntos, DayanaBot), la vista del Prototipo Web / KDS y el Diagrama de Procesos BPMN.   
+PDF
+
+Enfoque: Mostrar el flujo del pedido desde la interfaz web hasta la cocina sin errores de comanda.   
+PDF
+
+3. Integrante 3 (Johan): Bloque 2 — Diagrama de Componentes
+
+Contenido: Explicación del Diagrama de Componentes (Frontend, Backend, Base de Datos y APIs).
+
+Enfoque: Detallar cómo modularizaron el software (Módulo de Pedidos, Motor de Puntos y Chatbot).
+
+4. Integrante 4 (Werner): Bloque 3 — Diagrama de Distribución (Despliegue)
+
+Contenido: Explicación del Diagrama de Distribución y Conclusiones del STRS.
+
+Enfoque: Explicar el hardware/software (Smartphone del cliente, Servidor Cloud y Tablet/Monitor KDS en local).
+
+Puedes copiar este mensaje y mandarlo a tu grupo de WhatsApp:
+
+"Chicos, para organizarnos rápido y cumplir con los 3 bloques de la docente, propongo esta división:
+
+Carlos: Bloque 1 - Introducción, Misión/Visión y Alcance del negocio.   
+PDF
+
+Alexandra: Bloque 1 - Dayana Puntos, DayanaBot, Prototipos y BPMN.   
+PDF
+
+Johan: Bloque 2 - Diagrama de Componentes (Estructura modular y BD).
+
+Werner: Bloque 3 - Diagrama de Distribución (Servidores, KDS y hardware) + Conclusiones.
+
+¿Les parece bien para empezar a repasar?"
+
+dame un guion
+
+Aquí tienes el guion fluido y continuo para la exposición en equipo, organizado exactamente por los 3 bloques de la docente:
+
+🎙️ Guion Completo para la Exposición del STRS
+BLOQUE 1: DESCRIPCIÓN DEL PROYECTO
+
+Carlos (Tú) — Carátula, Propósito y Alcance Empresarial:
+
+"Buenas tardes profesora y compañeros. Mi grupo presentará la Especificación de Requisitos de las Partes Interesadas (STRS) para la Pollería Dayana, estructurada bajo la norma ISO/IEC/IEEE 29148.   
+PDF
+
+Como conocen, Pollería Dayana es un negocio tradicional muy querido en Cusco, pero actualmente enfrenta demoras y errores en la recepción de pedidos por vía telefónica. Nuestra misión es implementar un canal web ágil que responda a esta demanda con precisión, teniendo como visión convertir a la pollería en un referente local de transformación digital y fidelización de clientes.   
+PDF
++ 1
+
+El alcance del proyecto automatiza el negocio de extremo a extremo: abarca un Catálogo Interactivo, un Carrito Autónomo, el panel KDS para cocina, el rastreo de Delivery y nuestras dos mayores innovaciones: el programa de gamificación Dayana Puntos y el chatbot DayanaBot. Le doy el pase a Alexandra para ver cómo opera este flujo."   
+PDF
++ 1
+
+Alexandra — Innovaciones, Prototipo y Diagrama BPMN:
+
+"Gracias, Carlos. Para incentivar la compra web creamos Dayana Puntos, un módulo donde el cliente gana desde 0.5 hasta 12 puntos por producto y los canjea por gaseosas o un octavo de pollo gratis. Además, integramos DayanaBot, un chatbot programado para resolver dudas de estado de pedido y zonas de entrega sin saturar la línea telefónica.   
+PDF
++ 1
+
+En nuestro prototipo vemos cómo la interfaz simplifica la compra para el cliente mientras proyecta en tiempo real las comandas en el monitor KDS de la cocina. Como muestra el Diagrama BPMN, la orden ingresa por la web, activa de inmediato la pantalla en cocina, asigna los puntos en la cuenta del usuario y notifica al repartidor cuando el pedido está empaquetado, asegurando un proceso sin errores. Ahora, Johan explicará la arquitectura técnica."   
+PDF
++ 1
+
+BLOQUE 2: DIAGRAMA DE COMPONENTES
+
+Johan — Estructura Modular y Lógica:
+
+"Gracias, Alexandra. Para sostener este proceso diseñamos un Diagrama de Componentes que organiza el software en tres capas modulares:
+
+Frontend (Interfaz): Comprende el portal web del cliente y el panel de administración KDS para la cocina.*
+
+Backend (Lógica de Negocio): Agrupa el Módulo de Pedidos, el Motor de Cálculo de Dayana Puntos y la API que conecta al DayanaBot.*
+
+Base de Datos: Centraliza las tablas de usuarios, menú, comandas e historial de puntos acumulados.*
+
+Esta arquitectura modular garantiza que si el chatbot requiere mantenimiento, el catálogo y la recepción de comandas sigan operando sin interrupciones. Doy el pase a Werner para el entorno de despliegue."
+
+BLOQUE 3: DIAGRAMA DE DISTRIBUCIÓN
+
+Werner — Arquitectura de Despliegue y Conclusiones:
+
+"Gracias, Johan. En el Diagrama de Distribución definimos la infraestructura física y el software donde vive el sistema:
+
+Nodo Cliente: Representa el navegador (smartphone o laptop) donde el usuario realiza el pedido.*
+
+Nodo Servidor / Cloud: ALoja la plataforma web y la base de datos central en la nube bajo protocolos seguros HTTPS.*
+
+Nodo Local Pollería: Corresponde a la tablet/pantalla KDS ubicada en la cocina, conectada mediante red local para recibir las comandas al instante.*
+
+En conclusión, la implementación de este STRS bajo la norma ISO 29148 le permite a Pollería Dayana eliminar el papel en cocina, acelerar los tiempos de despacho en horas punta y fidelizar a sus clientes en Cusco mediante tecnología accesible. Muchas gracias por su atención."   
+PDF
+
+cual elijo, caul esta mas facil
+
+Elije Historias de Usuario (Tarjetas). Es la opción más rápida, sencilla y directa porque sigue una plantilla fija muy fácil de llenar.
+
+¿Por qué es más fácil?
+
+Diagrama de Casos de Uso (C.U): Requiere dibujar diagramas con monigotes (actores), óvalos, relaciones (include/extend) y cuidar la estética técnica.
+
+Historias de Usuario (Tarjetas): Solo debes redactar un par de fichas o tablas simples siguiendo la estructura estándar: "Como [rol], quiero [acción] para [beneficio]".
+
+💬 Responde esto en tu grupo de WhatsApp:
+"Yo hago HISTORIAS DE USUARIO (TARJETAS)"
+
+📝 Plantilla rápida para tus Tarjetas (Llegar y Copiar)
+Aquí tienes las tarjetas ya redactadas para el proyecto de la Pollería Dayana:
+
+Historia de Usuario 1: Dayana Puntos
+
+Título: Acumulación de Puntos por Compra.   
+PDF
+
+Como: Cliente de la Pollería Dayana.   
+PDF
+
+Quiero: Ganar puntos automáticamente por cada plato o combo comprado desde la web.   
+PDF
+
+Para: Acumular saldo y canjear premios como bebidas o pollo gratis.   
+PDF
+
+Criterio de Aceptación: El sistema debe asignar entre 0.5 y 12 puntos por ítem y reflejar el saldo actualizado inmediatamente.   
+PDF
+
+Historia de Usuario 2: Pantalla KDS
+
+Título: Recepción de Comandas en Cocina.   
+PDF
+
+Como: Cocinero / Hornero.   
+PDF
+
+Quiero: Visualizar las órdenes digitales entrantes en una pantalla KDS en orden de llegada.   
+PDF
+
+Para: Preparar los alimentos sin depender de comandas en papel y cambiar su estado a "Listo".   
+PDF
+
+Criterio de Aceptación: La orden debe sonar/parpadear al ingresar y desaparecer del panel al marcarla como completada.   
+PDF
+
+Historia de Usuario 3: DayanaBot
+
+Título: Consultas de Estado de Pedido.   
+PDF
+
+Como: Cliente.   
+PDF
+
+Quiero: Consultar la ubicación o estado de mi delivery mediante un chatbot inteligente.   
+PDF
+
+Para: Saber en cuánto tiempo llega mi pedido sin tener que llamar por teléfono.   
+PDF
+
+Criterio de Aceptación: El DayanaBot debe responder de forma automática ingresando el número de pedido o DNI.   
+PDF
+
+aca hay alguna informacion valiosa acerca sobre el historial de usuario
+
+¡Sí! La diapositiva 6 de tu diapositiva "Semana 5 B.pdf" trae la información exacta que pide la docente para redactar los Requisitos Funcionales con Historias de Usuario (Agile) y el formato formal con Criterios de Aceptación.   
+PDF
+
+Basándote estrictamente en lo que exige tu clase (diapositivas 6 y 7), aquí tienes el trabajo listo para copiar y pegar en tu documento o presentar en tarjetas:   
+PDF
+
+📋 HISTORIAS DE USUARIO (REQUISITOS FUNCIONALES - TARJETAS)
+Estructura bajo la norma IEEE / Agile según la guía de la asignatura
+
+   
+PDF
+
+📌 Tarjeta 1: Sistema de Fidelización (Dayana Puntos)
+ID: RF-001   
+PDF
+
+Nombre: Acumulación y Canje de Dayana Puntos   
+PDF
+
+Historia de Usuario (Formato Agile):
+
+"Como un comprador registrado, quiero acumular puntos automáticamente por cada pedido realizado en la web para canjearlos por productos gratuitos (bebidas, postres u octavo de pollo)."
+
+   
+PDF
++ 1
+
+Prioridad: Alta   
+PDF
+
+Criterios de Aceptación:
+
+   
+PDF
+
+El sistema asigna entre 0.5 y 12 puntos por producto según la categoría comprada.   
+PDF
+
+El saldo de Dayana Puntos se actualiza inmediatamente en el perfil del cliente tras confirmar el pago.   
+PDF
+
+Al llegar a 10 puntos, el sistema habilita el botón de canje por 1/8 de pollo gratis en el carrito de compras.   
+PDF
+
+📌 Tarjeta 2: Módulo KDS (Cocina y Despacho)
+ID: RF-002   
+PDF
+
+Nombre: Recepción de Comandas en Pantalla KDS   
+PDF
+
+Historia de Usuario (Formato Agile):
+
+"Como cocinero/hornero, quiero visualizar las comandas digitales en la pantalla KDS en orden de llegada para preparar los alimentos sin usar papel y cambiar su estado a 'Listo'."
+
+   
+PDF
++ 1
+
+Prioridad: Alta   
+PDF
+
+Criterios de Aceptación:
+
+   
+PDF
+
+La comanda digital muestra el detalle exacto de productos, guarniciones y hora del pedido.   
+PDF
+
+El KDS emite un aviso visual/sonoro al ingresar una nueva orden desde la web.   
+PDF
+
+Al presionar "Marcar Listo", el pedido cambia a estado "En Despacho" y notifica al repartidor.   
+PDF
+
+📌 Tarjeta 3: Asistencia Virtual (DayanaBot)
+ID: RF-003   
+PDF
+
+Nombre: Consultas Frecuentes mediante Chatbot   
+PDF
+
+Historia de Usuario (Formato Agile):
+
+"Como cliente, quiero interactuar con DayanaBot en la web para consultar la zona de cobertura de delivery y el estado de mi pedido sin tener que llamar por teléfono."
+
+   
+PDF
++ 1
+
+Prioridad: Media   
+PDF
+
+Criterios de Aceptación:
+
+   
+PDF
+
+DayanaBot responde de forma automatizada las 24 horas sobre zonas de entrega en Cusco y promociones vigentes.   
+PDF
+
+Permite ingresar el número de pedido para consultar si está "En preparación" o "En camino".   
+PDF
+
+💡 Requisitos No Funcionales (RNF) Complementarios
+(Siguiendo la diapositiva 8 sobre parámetros medibles SMART):   
+PDF
+
+RNF-001 (Rendimiento): El tiempo de respuesta al cargar el menú web y procesar la orden no debe exceder los 2 segundos bajo una carga simultánea de 100 usuarios.   
+PDF
+
+RNF-002 (Seguridad): Las contraseñas de los usuarios y la información de pagos deben almacenarse encriptadas mediante algoritmos de hash seguros (bcrypt/HTTPS).   
+PDF
+
+He creado el documento formal con tus Historias de Usuario y Criterios de Aceptación estructurados bajo las pautas exactas de tu materia:
+
+Historias de Usuario - Polleria Dayana
+
+Icono de Documentos de Google
+Historias de Usuario - Polleria Dayana
+ Documentos de Google 
+lo tengo que hacer en diagrama o en otra cosa
+
+Las Historias de Usuario (Tarjetas) NO son diagramas. Se presentan exactamente en formato de texto estructurado o tarjetas/tablas, tal como te las acabo de organizar en el documento de Google Docs.   
+PDF
++ 2
+
+Para que no te quede duda de la diferencia:
+
+Historias de Usuario (Tarjetas): Son texto/fichas redactadas bajo el formato "Como [rol], quiero [acción] para [beneficio]" acompañado de sus criterios de aceptación. Es lo que acabamos de hacer.   
+PDF
++ 1
+
+Casos de Uso (C.U): Esos SÍ son diagramas visuales (con monigotes representando actores y óvalos con las funciones).   
+PDF
+
+💡 ¿Cómo lo presentas para la entrega?
+Si es para el informe de Word/PDF: Solo copia las 3 tarjetas de texto y la tabla de Requisitos No Funcionales que están en tu Google Docs y pégalas en el documento.   
+Historias de Usuario - Polleria Dayana
+
+Si es para las Diapositivas (PPT): Puedes poner cada tarjeta dentro de un recuadro o "tarjeta visual" en la diapositiva, resaltando el texto brevemente.   
+PDF
+
+¡Así de fácil! No necesitas dibujar ningún gráfico para las Historias de Usuario.   
+PDF
+
+una imagen de ejemplo
+
+Aquí tienes una imagen de ejemplo de cómo se deben presentar visualmente las Historias de Usuario (Tarjetas) para tu proyecto de la Pollería Dayana.
+
+Esta imagen recrea las tres tarjetas funcionales que redactamos (Dayana Puntos, KDS y DayanaBot), mostrando la estructura estándar: Rol, Acción, Beneficio y sus Criterios de Aceptación, todo organizado en fichas visuales para tu informe o diapositivas.
+
+A clean, modular visualization showcasing three exemplary User Story Cards designed for a software specifications document for 'Pollería Dayana'. The image is a photograph of a presentation board in a modern analysis room, similar to the setting in <IMAGE_0>, but brightly lit with clear text. The three distinct 'cards' or 'fiches' are pinned neatly in a grid (2 on top, 1 below). Each card has a stylized header in Spanish, clear role descriptions, actions, benefits, and a list of acceptance criteria, all using the exact names and concepts from <IMAGE_0> and <IMAGE_1>.
+
+Card 1 (Top Left): Title: 'RF-001: Módulo de Fidelización (Dayana Puntos)'. Format: [Acrobat icon] **Como:** Cliente de Pollería Dayana. **Quiero:** Acumular puntos automáticamente por mis compras web. **Para:** Canjear premios como bebidas o pollo gratis. **Criterios de Aceptación:** 1. Ganar 0.5 a 12 puntos por producto. 2. Saldo visible en el perfil. 3. Canje de 1/8 pollo por 10 puntos en carrito. (Icons: Chicken, points star, gift).
+
+Card 2 (Top Right): Title: 'RF-002: Módulo KDS (Cocina y Despacho)'. Format: [Chef icon] **Como:** Cocinero/Hornero. **Quiero:** Visualizar comandas digitales en orden de llegada. **Para:** Preparar pedidos sin papel y agilizar despacho. **Criterios de Aceptación:** 1. Comanda detallada (productos y guarniciones). 2. Notificación visual/sonora de nueva orden. 3. Cambio de estado a 'Listo' notifica al repartidor. (Icons: Screen, clock, chef hat).
+
+Card 3 (Bottom Left): Title: 'RF-003: Asistencia Virtual (DayanaBot)'. Format: [Robot icon] **Como:** Cliente de Pollería Dayana. **Quiero:** Consultar estado de pedido y zonas de entrega mediante chatbot. **Para:** Resolver dudas sin llamar por teléfono. **Criterios de Aceptación:** 1. Respuestas automatizadas 24h. 2. Consulta de estado con código de pedido. (Icons: Chat bubble, map pin, delivery moto).
+
+Below the main grid, a small decorative banner reads 'Metodología Ágil - Especificación de Requisitos (STRS)'. The overall style is clean, modern, digital illustration with photo-realistic elements, featuring the black outline visual language found in <IMAGE_0>'s UI but rendered clearly as informative graphics., AI generated, generada por IA
+quita la idea de dayana puntos, y sobre la ubicacion sobre el delivery
+
+He actualizado las Historias de Usuario quitando los conceptos de Dayana Puntos y las consultas sobre zonas de ubicación del delivery. Se ha reemplazado esa primera tarjeta por la gestión core del Carrito de Compras y Selección de Menú.   
+PDF
+
+He creado la versión 2 actualizada en Google Docs:
+
+Historias de Usuario V2 - Polleria Dayana
+
+Icono de Documentos de Google
+Historias de Usuario V2 - Polleria Dayana
+ Documentos de Google 
+📋 Tarjetas de Historias de Usuario (Actualizadas)
+📌 Tarjeta 1: Registro de Pedidos y Carrito (Reemplaza a Dayana Puntos)
+ID: RF-001   
+PDF
+
+Nombre: Selección de Menú y Gestión de Carrito   
+PDF
+
+Historia de Usuario: "Como cliente de la Pollería Dayana, quiero seleccionar productos del catálogo web y personalizarlos en un carrito de compras para realizar mi pedido de forma rápida y autónoma."
+
+   
+PDF
++ 1
+
+Prioridad: Alta   
+PDF
+
+Criterios de Aceptación:
+
+   
+PDF
+
+El sistema permite elegir pollos, parrilladas, combos y guarniciones con sus respectivas cantidades.   
+PDF
+
+Muestra el desglose detallado del monto total a pagar antes de confirmar el pedido.   
+PDF
++ 1
+
+Permite al usuario indicar notas especiales para la preparación (ej. "papas crujientes" o "sin ensalada").
+
+📌 Tarjeta 2: Módulo KDS (Cocina y Despacho)
+ID: RF-002   
+PDF
+
+Nombre: Recepción de Comandas en Pantalla KDS   
+PDF
+
+Historia de Usuario: "Como cocinero/hornero, quiero visualizar las comandas digitales en la pantalla KDS en orden de llegada para preparar los alimentos sin usar papel y cambiar su estado a 'Listo'."
+
+   
+PDF
++ 1
+
+Prioridad: Alta   
+PDF
+
+Criterios de Aceptación:
+
+   
+PDF
+
+La comanda digital muestra el detalle exacto de productos, guarniciones y hora del pedido.   
+PDF
+
+El KDS emite un aviso visual/sonoro al ingresar una nueva orden desde la web.   
+PDF
+
+Al presionar "Marcar Listo", el pedido cambia a estado "En Despacho" y notifica al repartidor.   
+PDF
+
+📌 Tarjeta 3: Asistencia Virtual (DayanaBot) - Sin referencias a ubicación
+ID: RF-003   
+PDF
+
+Nombre: Consultas Frecuentes y Estado de Pedidos   
+PDF
+
+Historia de Usuario: "Como cliente, quiero interactuar con DayanaBot en la web para consultar el menú, promociones y el estado de mi pedido sin tener que llamar por teléfono."
+
+   
+PDF
++ 1
+
+Prioridad: Media   
+PDF
+
+Criterios de Aceptación:
+
+   
+PDF
+
+DayanaBot responde de forma automatizada sobre precios del menú, horarios de atención y promociones vigentes.   
+PDF
+
+Permite consultar el estado actual del pedido ("En preparación" o "En camino") ingresando el código de compra o DNI.   
+PDF
+
+🎨 Imagen de Referencia (Actualizada)
+Aquí tienes la representación en formato visual tipo pizarra para las diapositivas o informe:
+
+que es (bcrypt / HTTPS).??
+
+bcrypt y HTTPS son dos tecnologías de seguridad que protegen los datos del usuario en la plataforma web de la Pollería Dayana:
+
+bcrypt (Encriptación de contraseñas): Es un algoritmo matemático que transforma la contraseña del cliente (ej. polleria123) en una cadena irreconocible e irreversible de texto (ej. $2a$12$eImiTXuWV...). De este modo, si alguien intenta acceder a la base de datos, no podrá ver las contraseñas en texto plano.   
+PDF
++ 1
+
+HTTPS (Conexión segura en la web): Es el protocolo que encripta la comunicación entre el navegador del cliente y el servidor web. Garantiza que datos sensibles (como la dirección de entrega, nombres o tarjetas) viajen de forma privada por internet sin que terceros puedan interceptarlos.
+
+📌 Resumen para la exposición
+Tecnología	¿Qué hace en el sistema?	Beneficio principal
+bcrypt	
+Encripta las contraseñas antes de guardarlas en la base de datos. 
+PDF
+
+Protege las cuentas de usuario ante robos de datos. 
+PDF
+
+HTTPS	
+Cifra el tráfico de internet entre la web y el usuario. 
+PDF
+
+Evita que intercepten información confidencial durante la compra. 
+PDF
+
+en esta imagen quita lo que esta en circulo y el ciruclo mas
+
+, generada por IA
+1.1 Propósito empresarial
+
+Misión: Ofrecer a la comunidad de Cusco una experiencia gastronómica basada en el sabor tradicional del pollo a la brasa, integrando un canal web accesible, intuitivo e innovador que garantice agilidad, precisión y recompensas en la atención a distancia.
+
+Visión: Posicionarse como la pollería líder en Cusco reconocida por la calidad de sus productos y la modernización de sus procesos, convirtiéndose en un referente local de transformación digital y fidelización de clientes en el sector gastronómico.
+
+quita lo que esta relacionado con los dayanapuntos
+
+Aquí tienes los textos de la Misión y Visión ajustados, eliminando cualquier mención a recompensas o fidelización por puntos:
+
+1.1 Propósito empresarial
+Misión: Ofrecer a la comunidad de Cusco una experiencia gastronómica basada en el sabor tradicional del pollo a la brasa, integrando un canal web accesible, intuitivo e innovador que garantice agilidad y precisión en la atención a distancia.   
+PDF
+
+Visión: Posicionarse como la pollería líder en Cusco reconocida por la calidad de sus productos y la modernización de sus procesos, convirtiéndose en un referente local de transformación digital en el sector gastronómico.   
+PDF
+
+💡 Cambios realizados:
+Misión: Se reemplazó "garantice agilidad, precisión y recompensas" por "garantice agilidad y precisión".   
+PDF
+
+Visión: Se eliminó la frase "y fidelización de clientes".   
+PDF
+
+1.2 Alcance empresarial
+
+El alcance del proyecto comprende el diseño, desarrollo e implementación de una Plataforma Web de Pedidos en Línea, Gestión de Delivery y Fidelización para la Pollería Dayana. El sistema abarca:
+
+Módulo de Catálogo Interactivo: Visualización del menú, precios, guarniciones y promociones.
+
+Módulo de Registro de Pedidos: Carrito de compras autónomo con personalización de la orden y registro de dirección.
+
+Módulo de Fidelización (Dayana Puntos): Sistema de acumulación de puntos por categoría de producto que permite canjear premios (bebidas, postres u octavos de pollo gratis) al comprar vía web.
+
+Módulo de Asistencia Virtual (Dayana Bot): Un Chatbot automatizado para resolver dudas frecuentes sobre el estado del pedido, zonas de entrega y promociones.
+
+Módulo de Administración (KDS/Caja): Recepción de comandas digitales en tiempo real para el personal de cocina y despacho.
+
+
+
+Módulo de Seguimiento de Delivery: Asignación de rutas y actualización del estado del pedido (En preparación, En camino, Entregado).
+
+aqui igual quita lo que esta relacionado con dayanapuntos y el modulo de la ubicacion de delyvery, en vez de eso que aparezca si el pedido esta en preparacion, en camino y si ya esta entregado
+
+Aquí tienes el texto del 1.2 Alcance empresarial corregido, eliminando el módulo de Dayana Puntos y ajustando los módulos del chatbot y seguimiento para enfocar únicamente el estado del pedido (en preparación, en camino, entregado):
+
+1.2 Alcance empresarial
+El alcance del proyecto comprende el diseño, desarrollo e implementación de una Plataforma Web de Pedidos en Línea y Gestión de Delivery para la Pollería Dayana. El sistema abarca:   
+PDF
+
+Módulo de Catálogo Interactivo: Visualización del menú, precios, guarniciones y promociones.   
+PDF
+
+Módulo de Registro de Pedidos: Carrito de compras autónomo con personalización de la orden y registro de dirección de entrega.   
+PDF
+
+Módulo de Asistencia Virtual (DayanaBot): Un Chatbot automatizado para resolver dudas frecuentes sobre el menú, promociones y la consulta del estado del pedido.   
+PDF
+
+Módulo de Administración (KDS/Caja): Recepción de comandas digitales en tiempo real para el personal de cocina y despacho.   
+PDF
+
+Módulo de Seguimiento de Pedidos: Actualización en tiempo real del estado de la orden (En preparación, En camino, Entregado).
+
+💡 Cambios realizados:
+Título Principal: Se quitó la palabra "Fidelización" del alcance general.   
+PDF
+
+Módulo de Puntos: Se eliminó por completo el Módulo de Fidelización (Dayana Puntos).   
+PDF
+
+DayanaBot: Se quitaron las consultas sobre "zonas de entrega" y se mantuvo el enfoque en menú, promociones y estado del pedido.   
+PDF
+
+Seguimiento: Se eliminó la asignación de rutas por ubicación/zonas de delivery y se centró en los 3 estados claros: En preparación, En camino y Entregado.
+
+como les digo que ya no hagamos el dayana puntos ni el seguimiento
+
+Copia y pega este mensaje directamente en tu grupo de WhatsApp para responderle a Ale y dejar el alcance claro para todos:
+
+"Chicos, para no complicarnos con el desarrollo ni con los diagramas, hemos delimitado mejor el alcance del proyecto:   
+PDF
+
+Cero Dayana Puntos: Queda fuera para mantener el sistema enfocado en lo principal (pedidos y venta directa).   
+PDF
+
+Sin seguimiento por mapas/aplicativo: No habrá tracking GPS en vivo ni aplicativo de delivery.   
+PDF
+
+El seguimiento de estado será simple: El cliente consulta el estado (En preparación, En camino o Entregado) directamente en la web introduciendo su código de compra, o preguntándole al DayanaBot[cite: 1, 4].
+
+DayanaBot: Responderá preguntas frecuentes (menú, horarios, promociones) y dirá el estado del pedido con el código[cite: 1, 4].
+
+Todo esto ya está actualizado en el Google Docs que les envié para que lo usen de guía en sus diagramas."   
+Historias de Usuario V2 - Polleria Dayana
+
+1.4 Definiciones
+
+KDS (Kitchen Display System): Pantalla digital instalada en cocina que reemplaza el papel y muestra las comandas en orden de llegada.
+
+Dayana Puntos: Sistema de recompensas donde el usuario acumula puntajes (desde 0.5 hasta 12 puntos) según los productos comprados desde la plataforma web.
+
+Dayana Bot: Chatbot de respuesta rápida programado para guiar al cliente y responder preguntas frecuentes sin saturar las líneas telefónicas.
+
+Comanda Digital: Registro electrónico de un pedido generado por el usuario con el detalle de productos, guarniciones y datos de entrega.
+
+
+
+Hora Punta: Periodos de mayor demanda de pedidos (1:00 PM - 3:30 PM y 7:00 PM - 9:30 PM).
+
+aqui tambien quitalo
+
+Aquí tienes la sección de Definiciones corregida y limpia de cualquier referencia a Dayana Puntos:
+
+1.4 Definiciones
+KDS (Kitchen Display System): Pantalla digital instalada en cocina que reemplaza el papel y muestra las comandas en orden de llegada.   
+PDF
+
+DayanaBot: Chatbot de respuesta rápida programado para guiar al cliente, responder preguntas frecuentes y consultar el estado de su orden sin saturar las líneas telefónicas[cite: 1, 4].
+
+Comanda Digital: Registro electrónico de un pedido generado por el usuario con el detalle de productos, guarniciones y datos de entrega.   
+PDF
+
+Hora Punta: Periodos de mayor demanda de pedidos en el establecimiento (1:00 PM - 3:30 PM y 7:00 PM - 9:30 PM).   
+PDF
+
+como les digo
+
+Copia y pega este texto directo en tu chat de WhatsApp:
+
+"Amigos, ya corregí las Definiciones en el documento quitando lo de Dayana Puntos y dejándolo alineado al nuevo alcance:   
+PDF
+
+KDS (Kitchen Display System): Pantalla digital instalada en cocina que reemplaza el papel y muestra las comandas en orden de llegada.   
+PDF
+
+DayanaBot: Chatbot de respuesta rápida programado para guiar al cliente, responder preguntas frecuentes y consultar el estado de su orden sin saturar las líneas telefónicas[cite: 1, 4].
+
+Comanda Digital: Registro electrónico de un pedido generado por el usuario con el detalle de productos, guarniciones y datos de entrega.   
+PDF
+
+Hora Punta: Periodos de mayor demanda de pedidos en el local (1:00 PM - 3:30 PM y 7:00 PM - 9:30 PM).   
+PDF
+
+Todo el documento ya está limpio y actualizado sin puntos ni rastreo por GPS[cite: 1, 4]."
+
+es que si sera complicado agregar todo eso sobre la ubicacion, dayanapuntos y el KDS
+
+Entiendo perfectamente tu preocupación. De hecho, tomaron la mejor decisión técnica y académica.
+
+Aquí tienes la razón exacta de por qué fue correcto simplificarlo y cómo explicárselo a tu grupo si tienen dudas:
+
+💡 ¿Por qué era tan complicado implementar todo eso?
+Ubicación / Rastreo por GPS:
+
+La realidad: Requería integrar APIs pagadas de Google Maps o desarrollar una aplicación móvil secundaria exclusivamente para el repartidor (para que transmita su ubicación en tiempo real mientras maneja).
+
+La solución simplificada: Es mucho más realista e igual de efectivo usar 3 estados fijos de pedido (En preparación, En camino, Entregado). El usuario solo consulta en la web o le pregunta al DayanaBot[cite: 1, 4].
+
+Dayana Puntos (Gamificación/Fidelización):
+
+La realidad: Implicaba programar un motor de reglas complejo, vencimiento de puntos, tablas de equivalencias, cupones y validaciones anti-fraude en la base de datos.
+
+La solución simplificada: Al eliminarlo, el sistema se enfoca 100% en la venta directa y rapidez del pedido, que es el verdadero problema de la pollería en horas punta.   
+PDF
+
+Sobre el KDS (Pantalla de Cocina):
+
+Dato importante: El KDS SÍ lo conservamos, pero de forma sumamente sencilla[cite: 1, 4]. Solo es un panel web/pantalla donde la cocina ve la lista de pedidos que entran y le da clic a un botón para cambiar el estado a "Listo"[cite: 1, 4]. ¡No requiere ninguna configuración compleja!
+
+💬 Mensaje para enviarle a tu grupo de WhatsApp:
+"Chicos, piensen que para un proyecto de este nivel no podemos abarcarnos con un desarrollo tan complejo. Agregar rastreo por GPS requería apps secundarias para repartidores y APIs complejas; y los puntos metían mucha lógica extra a la base de datos.   
+PDF
+
+Reduciendo el alcance a Catálogo Web + Carrito + KDS Simple en Cocina + DayanaBot, presentamos un proyecto sólido, funcional, profesional y perfectamente defendible ante la docente sin enredarnos con cosas que no daría tiempo de estructurar bien[cite: 1, 4]."
+
+ESPECIFICACIÓN DE REQUISITOS DE LAS PARTES INTERESADAS (STRS)
+
+Pollería Dayana - Plataforma Web de Pedidos y Delivery
+
+Asignatura: Análisis y Diseño de Software
+
+
+
+1. REQUISITOS FUNCIONALES (HISTORIAS DE USUARIO Y TARJETAS)
+
+Tarjeta 1: Módulo de Registro de Pedidos y Carrito
+
+ID: RF-001
+
+Nombre: Selección de Menú y Gestión de Carrito
+
+Historia de Usuario: Como cliente de la Pollería Dayana, quiero seleccionar productos del catálogo web y personalizarlos en un carrito de compras para realizar mi pedido de forma rápida y autónoma.
+
+Prioridad: Alta
+
+Criterios de Aceptación:
+
+El cliente debe poder visualizar el menú.
+
+El sistema permite seleccionar productos con sus respectivas cantidades.
+
+Muestra el desglose detallado del monto total a pagar antes de confirmar el pedido.
+
+Permite al usuario indicar notas especiales para la preparación (papas crujientes o sin ensalada).
+
+Tarjeta 2: Módulo KDS (Cocina y Despacho)
+
+ID: RF-002
+
+Nombre: Recepción de Comandas en Pantalla KDS
+
+Historia de Usuario: Como cocinero/hornero, quiero visualizar las comandas digitales en la pantalla KDS en orden de llegada para preparar los alimentos sin usar papel y cambiar su estado a 'Listo'.
+
+Prioridad: Alta
+
+Criterios de Aceptación:
+
+La comanda digital muestra el detalle exacto de productos, guarniciones y hora del pedido.
+
+El KDS emite un aviso visual o sonoro al ingresar una nueva orden desde la web.
+
+Al presionar "Marcar Listo", el pedido cambia a estado "En Despacho" y notifica al repartidor.
+
+Tarjeta 3: Asistencia Virtual (DayanaBot)
+
+ID: RF-003
+
+Nombre: Consultas Frecuentes y Estado de Pedidos
+
+Historia de Usuario: Como cliente, quiero interactuar con DayanaBot en la web para consultar el menú, promociones y el estado de mi pedido sin tener que llamar por teléfono.
+
+Prioridad: Media
+
+Criterios de Aceptación:
+
+DayanaBot responde de forma automatizada sobre precios del menú, horarios de atención, promociones vigentes y otras preguntas frecuentes.
+
+Permite consultar el estado actual del pedido (En preparación / En camino)
+
+2. REQUISITOS NO FUNCIONALES (RNF)
+
+ID
+
+Nombre
+
+Descripción / Métrica SMART
+
+Categoría
+
+ 
+
+RNF-001
+
+Rendimiento de Carga
+
+El tiempo de respuesta al cargar el menú web y procesar la orden no debe exceder los 2 segundos con 100 usuarios concurrentes.
+
+Rendimiento
+
+RNF-002
+
+Seguridad de Datos
+
+Todas las contraseñas e información sensible deben almacenarse encriptadas mediante algoritmos seguros (bcrypt / HTTPS).
+
+Seguridad
+
+RNF-003
+
+Velocidad
+
+La respuesta al registrar un pedido o imprimir la comanda no debe superar los 4 segundos
+
+Velocidad
+
+
+
+RNF-004
+
+Usabilidad
+
+La interfaz web debe ser dinámica y de botones grandes en celulares, para evitar errores de marcación.
+
+Usabilidad
+
+actualiaz
+
+Has parado esta respuesta
+actualiza sobre las ideas que quitamos incluyrendo los KDS
+
+He creado la versión actualizada y totalmente simplificada en Google Docs (sin Dayana Puntos, sin Rastreo GPS de Delivery y sin KDS en cocina):
+
+Historias de Usuario V3 (Simplificado) - Polleria Dayana
+
+Icono de Documentos de Google
+Historias de Usuario V3 (Simplificado) - Polleria Dayana
+ Documentos de Google 
+📋 ESPECIFICACIÓN DE REQUISITOS (TEXTO COMPLETO ACTUALIZADO)
+1. REQUISITOS FUNCIONALES (HISTORIAS DE USUARIO Y TARJETAS)
+Tarjeta 1: Módulo de Registro de Pedidos y Carrito
+ID: RF-001   
+Historias de Usuario - Polleria Dayana
+
+Nombre: Selección de Menú y Gestión de Carrito   
+Historias de Usuario - Polleria Dayana
+
+Historia de Usuario: "Como cliente de la Pollería Dayana, quiero seleccionar productos del catálogo web y personalizarlos en un carrito de compras para realizar mi pedido de forma rápida y autónoma."[cite: 1, 3]
+
+Prioridad: Alta   
+Historias de Usuario - Polleria Dayana
+
+Criterios de Aceptación:
+
+   
+Historias de Usuario - Polleria Dayana
+
+El cliente debe poder visualizar el menú interactivo con precios y detalles.   
+Historias de Usuario V2 - Polleria Dayana
+
+El sistema permite seleccionar productos con sus respectivas cantidades.   
+Historias de Usuario V2 - Polleria Dayana
+
+Muestra el desglose detallado del monto total a pagar antes de confirmar el pedido.   
+Historias de Usuario - Polleria Dayana
++ 1
+
+Permite al usuario indicar notas especiales para la preparación (ej. papas crujientes o sin ensalada).   
+Historias de Usuario V2 - Polleria Dayana
+
+Tarjeta 2: Módulo de Gestión de Pedidos y Despacho (Reemplaza al KDS)
+ID: RF-002   
+Historias de Usuario - Polleria Dayana
+
+Nombre: Recepción y Control de Estado de Pedidos   
+Historias de Usuario - Polleria Dayana
+
+Historia de Usuario: "Como personal de atención/caja, quiero visualizar las órdenes digitales entrantes en la plataforma web para gestionar su preparación y actualizar el estado a 'En preparación', 'En camino' o 'Entregado'."[cite: 1, 3]
+
+Prioridad: Alta   
+Historias de Usuario - Polleria Dayana
+
+Criterios de Aceptación:
+
+   
+Historias de Usuario - Polleria Dayana
+
+El sistema muestra el listado de pedidos web organizados por hora de llegada.   
+PDF
+
+El personal puede cambiar manualmente el estado del pedido (En preparación, En camino, Entregado).   
+PDF
+
+El cambio de estado se refleja inmediatamente para la consulta del cliente.   
+PDF
+
+Tarjeta 3: Asistencia Virtual (DayanaBot)
+ID: RF-003   
+Historias de Usuario - Polleria Dayana
+
+Nombre: Consultas Frecuentes y Estado de Pedidos   
+Historias de Usuario - Polleria Dayana
+
+Historia de Usuario: "Como cliente, quiero interactuar con DayanaBot en la web para consultar el menú, promociones y el estado de mi pedido sin tener que llamar por teléfono."[cite: 1, 3]
+
+Prioridad: Media   
+Historias de Usuario - Polleria Dayana
+
+Criterios de Aceptación:
+
+   
+Historias de Usuario - Polleria Dayana
+
+DayanaBot responde de forma automatizada sobre precios del menú, horarios de atención, promociones vigentes y preguntas frecuentes[cite: 1, 4].
+
+Permite consultar el estado actual del pedido (En preparación, En camino, Entregado) ingresando el código de compra o DNI[cite: 1, 4].
+
+2. REQUISITOS NO FUNCIONALES (RNF)
+ID	Nombre	Descripción / Métrica SMART	Categoría
+RNF-001	Rendimiento de Carga	
+El tiempo de respuesta al cargar el menú web y procesar la orden no debe exceder los 2 segundos con 100 usuarios concurrentes. 
+Historias de Usuario - Polleria Dayana
++ 1
+
+Rendimiento
+RNF-002	Seguridad de Datos	
+Todas las contraseñas e información sensible deben almacenarse encriptadas mediante algoritmos seguros (bcrypt / HTTPS). 
+Historias de Usuario - Polleria Dayana
++ 1
+
+Seguridad
+RNF-003	Velocidad	
+La respuesta al registrar o confirmar un pedido en el sistema no debe superar los 4 segundos. 
+Historias de Usuario V2 - Polleria Dayana
+
+Velocidad
+RNF-004	Usabilidad	
+La interfaz web debe ser dinámica y de botones grandes en celulares, para evitar errores de marcación. 
+Historias de Usuario V2 - Polleria Dayana
+
+Usabilidad
+hazme la web que estamos requiriendo
+
+Aquí tienes la interfaz web interactiva diseñada exclusivamente para la Pollería Dayana, integrando los requisitos simplificados:
+
+Icono de HTML
+index
+ HTML 
+🌟 Características de la Web
+RF-001 (Menú Interactivo & Carrito): Permite agregar pollos, combos y guarniciones, colocar notas personalizadas (papas crujientes, sin mayonesa) y calcular el total de forma inmediata.   
+Historias de Usuario - Polleria Dayana
++ 1
+
+RF-002 (Gestión de Pedidos & Despacho): Incluye un panel en tiempo real donde la caja/atención puede cambiar manualmente el estado del pedido a En preparación, En camino o Entregado.   
+Historias de Usuario - Polleria Dayana
++ 1
+
+RF-003 (DayanaBot Widget): Chatbot dinámico ubicado en la esquina inferior derecha que responde preguntas sobre precios, horarios de atención y consulta el estado actual del pedido mediante el número de orden (ej: #ORD-101).   
+Historias de Usuario - Polleria Dayana
++ 1
+
+Puedes descargar el archivo .html generado y abrirlo directamente en cualquier navegador web para probarlo o incluirlo en tus capturas para las diapositivas del proyecto.
+
+
+
+
+Tus conversaciones de Organización Educativa Continental no se usan para mejorar nuestros modelos. Gemini es una IA y puede cometer errores. Tu privacidad y GeminiSe abre en una ventana nueva
+
+Analizando
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pollería Dayana - Pedidos en Línea</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <style>
+        :root {
+            --primary: #d90429;
+            --primary-dark: #ef233c;
+            --secondary: #ffb703;
+            --dark: #2b2d42;
+            --light: #f8f9fa;
+            --gray: #8d99ae;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        body {
+            background-color: var(--light);
+            color: var(--dark);
+            padding-bottom: 80px;
+        }
+
+        /* Header / Navbar */
+        header {
+            background-color: var(--primary);
+            color: white;
+            padding: 1rem 2rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+        }
+
+        .logo {
+            font-size: 1.5rem;
+            font-weight: bold;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        nav ul {
+            display: flex;
+            list-style: none;
+            gap: 20px;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            font-weight: 600;
+            transition: color 0.3s;
+        }
+
+        nav a:hover {
+            color: var(--secondary);
+        }
+
+        .cart-icon {
+            position: relative;
+            cursor: pointer;
+            font-size: 1.2rem;
+        }
+
+        .cart-badge {
+            position: absolute;
+            top: -8px;
+            right: -10px;
+            background-color: var(--secondary);
+            color: var(--dark);
+            border-radius: 50%;
+            padding: 2px 6px;
+            font-size: 0.75rem;
+            font-weight: bold;
+        }
+
+        /* Hero Banner */
+        .hero {
+            background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('https://images.unsplash.com/photo-1598515214211-89d3c73ae83b?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80');
+            background-size: cover;
+            background-position: center;
+            color: white;
+            text-align: center;
+            padding: 4rem 1rem;
+        }
+
+        .hero h1 {
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .hero p {
+            font-size: 1.2rem;
+            margin-bottom: 1.5rem;
+            color: var(--secondary);
+        }
+
+        .btn-hero {
+            background-color: var(--secondary);
+            color: var(--dark);
+            padding: 0.8rem 1.8rem;
+            border: none;
+            border-radius: 25px;
+            font-weight: bold;
+            font-size: 1rem;
+            cursor: pointer;
+            transition: transform 0.2s, background 0.3s;
+        }
+
+        .btn-hero:hover {
+            transform: scale(1.05);
+            background-color: #e0a100;
+        }
+
+        /* Layout Container */
+        .container {
+            max-width: 1200px;
+            margin: 2rem auto;
+            padding: 0 1rem;
+            display: grid;
+            grid-template-columns: 2fr 1fr;
+            gap: 2rem;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        /* Section Titles */
+        .section-title {
+            border-bottom: 3px solid var(--primary);
+            padding-bottom: 0.5rem;
+            margin-bottom: 1.5rem;
+            font-size: 1.5rem;
+        }
+
+        /* Menu Grid */
+        .menu-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+            gap: 1.5rem;
+        }
+
+        .card {
+            background: white;
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+
+        .card img {
+            width: 100%;
+            height: 140px;
+            object-fit: cover;
+        }
+
+        .card-body {
+            padding: 1rem;
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+
+        .card-title {
+            font-size: 1.1rem;
+            margin-bottom: 0.3rem;
+        }
+
+        .card-desc {
+            font-size: 0.85rem;
+            color: var(--gray);
+            margin-bottom: 0.8rem;
+        }
+
+        .card-footer {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-top: auto;
+        }
+
+        .price {
+            font-weight: bold;
+            color: var(--primary);
+            font-size: 1.1rem;
+        }
+
+        .btn-add {
+            background-color: var(--primary);
+            color: white;
+            border: none;
+            padding: 0.5rem 0.8rem;
+            border-radius: 6px;
+            cursor: pointer;
+            font-weight: 600;
+        }
+
+        .btn-add:hover {
+            background-color: var(--primary-dark);
+        }
+
+        /* Sidebar / Shopping Cart */
+        .cart-panel {
+            background: white;
+            border-radius: 12px;
+            padding: 1.5rem;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            height: fit-content;
+        }
+
+        .cart-items {
+            list-style: none;
+            margin: 1rem 0;
+            max-height: 250px;
+            overflow-y: auto;
+        }
+
+        .cart-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 0.8rem;
+            padding-bottom: 0.8rem;
+            border-bottom: 1px solid #eee;;
+            font-size: 0.9rem;
+        }
+
+        .cart-total {
+            font-size: 1.2rem;
+            font-weight: bold;
+            display: flex;
+            justify-content: space-between;
+            margin-top: 1rem;
+            padding-top: 1rem;
+            border-top: 2px solid var(--dark);
+        }
+
+        .notes-area {
+            width: 100%;
+            margin-top: 1rem;
+            padding: 0.5rem;
+            border: 1px solid var(--gray);
+            border-radius: 6px;
+            font-size: 0.85rem;
+            resize: none;
+        }
+
+        .btn-checkout {
+            width: 100%;
+            background-color: #27ae60;
+            color: white;
+            border: none;
+            padding: 0.8rem;
+            border-radius: 8px;
+            font-weight: bold;
+            font-size: 1rem;
+            margin-top: 1rem;
+            cursor: pointer;
+        }
+
+        .btn-checkout:hover {
+            background-color: #219150;
+        }
+
+        /* Admin / Order Status Panel */
+        .admin-section {
+            background: white;
+            border-radius: 12px;
+            padding: 1.5rem;
+            margin-top: 2rem;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+
+        .order-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 1rem;
+        }
+
+        .order-table th, .order-table td {
+            padding: 0.8rem;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+            font-size: 0.9rem;
+        }
+
+        .badge-status {
+            padding: 4px 8px;
+            border-radius: 12px;
+            font-size: 0.8rem;
+            font-weight: bold;
+        }
+
+        .status-prep { background: #ffeaa7; color: #d63031; }
+        .status-way { background: #74b9ff; color: #0984e3; }
+        .status-done { background: #55efc4; color: #00b894; }
+
+        /* DayanaBot Widget */
+        .bot-widget {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            z-index: 1001;
+        }
+
+        .bot-button {
+            background-color: var(--primary);
+            color: white;
+            border: none;
+            border-radius: 50%;
+            width: 60px;
+            height: 60px;
+            font-size: 1.5rem;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .bot-window {
+            display: none;
+            position: absolute;
+            bottom: 70px;
+            right: 0;
+            width: 320px;
+            height: 400px;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.2);
+            flex-direction: column;
+            overflow: hidden;
+        }
+
+        .bot-header {
+            background: var(--primary);
+            color: white;
+            padding: 1rem;
+            font-weight: bold;
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .bot-messages {
+            flex-grow: 1;
+            padding: 1rem;
+            overflow-y: auto;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            font-size: 0.85rem;
+        }
+
+        .msg-bot {
+            background: #f1f0f0;
+            padding: 8px 12px;
+            border-radius: 10px;
+            align-self: flex-start;
+            max-width: 80%;
+        }
+
+        .msg-user {
+            background: var(--primary);
+            color: white;
+            padding: 8px 12px;
+            border-radius: 10px;
+            align-self: flex-end;
+            max-width: 80%;
+        }
+
+        .bot-input {
+            display: flex;
+            border-top: 1px solid #ddd;
+        }
+
+        .bot-input input {
+            flex-grow: 1;
+            border: none;
+            padding: 0.8rem;
+            outline: none;
+        }
+
+        .bot-input button {
+            background: var(--primary);
+            color: white;
+            border: none;
+            padding: 0 1rem;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Header -->
+    <header>
+        <div class="logo">
+            <i class="fa-solid fa-drumstick-bite"></i> Pollería Dayana
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#menu">Menú</a></li>
+                <li><a href="#promos">Promociones</a></li>
+                <li><a href="#pedidos-panel">Panel de Control</a></li>
+            </ul>
+        </nav>
+        <div class="cart-icon" onclick="document.getElementById('cart').scrollIntoView();">
+            <i class="fa-solid fa-cart-shopping"></i>
+            <span class="cart-badge" id="cart-count">0</span>
+        </div>
+    </header>
+
+    <!-- Hero Banner -->
+    <div class="hero">
+        <h1>El Tradicional Sabor a la Brasa</h1>
+        <p>Pide online fácil, rápido y recíbelo directo en tu mesa o domicilio.</p>
+        <button class="btn-hero" onclick="document.getElementById('menu').scrollIntoView();">Ver Menú Completo</button>
+    </div>
+
+    <!-- Main Content -->
+    <div class="container">
+        <!-- Products Column -->
+        <div>
+            <h2 class="section-title" id="menu">Nuestros Platos Principales</h2>
+            <div class="menu-grid">
+                <!-- Item 1 -->
+                <div class="card">
+                    <img src="https://images.unsplash.com/photo-1598515214211-89d3c73ae83b?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80" alt="Pollo Entero">
+                    <div class="card-body">
+                        <div class="card-title">1 Pollo a la Brasa</div>
+                        <div class="card-desc">Con papas fritas familiares, ensalada fresca y cremas.</div>
+                        <div class="card-footer">
+                            <span class="price">S/ 65.00</span>
+                            <button class="btn-add" onclick="addToCart('1 Pollo a la Brasa', 65)">+ Agregar</button>
+                        </div>
+                    </div>
+                </div>
+                <!-- Item 2 -->
+                <div class="card">
+                    <img src="https://images.unsplash.com/photo-1626645738196-c2a7c87a8f58?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80" alt="1/2 Pollo">
+                    <div class="card-body">
+                        <div class="card-title">1/2 Pollo a la Brasa</div>
+                        <div class="card-desc">Con papas fritas, ensalada personal y cremas.</div>
+                        <div class="card-footer">
+                            <span class="price">S/ 35.00</span>
+                            <button class="btn-add" onclick="addToCart('1/2 Pollo a la Brasa', 35)">+ Agregar</button>
+                        </div>
+                    </div>
+                </div>
+                <!-- Item 3 -->
+                <div class="card">
+                    <img src="https://images.unsplash.com/photo-1562967914-608f82629710?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80" alt="1/4 Pollo">
+                    <div class="card-body">
+                        <div class="card-title">1/4 Pollo a la Brasa</div>
+                        <div class="card-desc">Pierna o Pecho con papas fritas y ensalada.</div>
+                        <div class="card-footer">
+                            <span class="price">S/ 20.00</span>
+                            <button class="btn-add" onclick="addToCart('1/4 Pollo a la Brasa', 20)">+ Agregar</button>
+                        </div>
+                    </div>
+                </div>
+                <!-- Item 4 -->
+                <div class="card">
+                    <img src="https://images.unsplash.com/photo-1544025162-d76694265947?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80" alt="Parrillada">
+                    <div class="card-body">
+                        <div class="card-title">Combo Familiar Dayana</div>
+                        <div class="card-desc">1 Pollo entero + Gaseosa 1.5L + Porción Tequeños.</div>
+                        <div class="card-footer">
+                            <span class="price">S/ 78.00</span>
+                            <button class="btn-add" onclick="addToCart('Combo Familiar Dayana', 78)">+ Agregar</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Admin Status Control (RF-002) -->
+            <div class="admin-section" id="pedidos-panel">
+                <h2 class="section-title">Panel de Control de Pedidos (Caja / Atención)</h2>
+                <p style="font-size: 0.85rem; color: var(--gray);">Gestión de estados para reflejar al cliente en tiempo real.</p>
+                <table class="order-table">
+                    <thead>
+                        <tr>
+                            <th>N° Orden</th>
+                            <th>Cliente</th>
+                            <th>Detalle</th>
+                            <th>Estado Actual</th>
+                            <th>Acción</th>
+                        </tr>
+                    </thead>
+                    <tbody id="admin-orders-list">
+                        <tr>
+                            <td>#ORD-101</td>
+                            <td>Carlos Ramos</td>
+                            <td>1 Pollo Entero (Papas crujientes)</td>
+                            <td><span class="badge-status status-prep" id="st-101">En preparación</span></td>
+                            <td>
+                                <select onchange="updateStatus('101', this.value)">
+                                    <option value="prep">En preparación</option>
+                                    <option value="way">En camino</option>
+                                    <option value="done">Entregado</option>
+                                </select>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <!-- Sidebar / Cart (RF-001) -->
+        <div class="cart-panel" id="cart">
+            <h3><i class="fa-solid fa-basket-shopping"></i> Tu Carrito</h3>
+            <ul class="cart-items" id="cart-items-list">
+                <p style="font-size: 0.85rem; color: var(--gray);">Tu carrito está vacío.</p>
+            </ul>
+            
+            <textarea class="notes-area" id="order-notes" rows="2" placeholder="Notas especiales (ej: papas crujientes, sin mayonesa)..."></textarea>
+
+            <div class="cart-total">
+                <span>Total:</span>
+                <span id="cart-total-price">S/ 0.00</span>
+            </div>
+
+            <button class="btn-checkout" onclick="checkout()">Confirmar Pedido</button>
+        </div>
+    </div>
+
+    <!-- DayanaBot Widget (RF-003) -->
+    <div class="bot-widget">
+        <div class="bot-window" id="bot-window">
+            <div class="bot-header">
+                <span><i class="fa-solid fa-robot"></i> DayanaBot</span>
+                <span style="cursor:pointer;" onclick="toggleBot()">✕</span>
+            </div>
+            <div class="bot-messages" id="bot-messages">
+                <div class="msg-bot">¡Hola! Soy DayanaBot 🤖. ¿En qué puedo ayudarte? Puedes preguntarme por el menú, promociones o el estado de tu pedido.</div>
+            </div>
+            <div class="bot-input">
+                <input type="text" id="bot-text" placeholder="Escribe tu consulta..." onkeypress="handleBotKey(event)">
+                <button onclick="sendBotMsg()">Enviar</button>
+            </div>
+        </div>
+        <button class="bot-button" onclick="toggleBot()">
+            <i class="fa-solid fa-comments"></i>
+        </button>
+    </div>
+
+    <!-- Interactivity Script -->
+    <script>
+        let cart = [];
+        let total = 0;
+        let orderCount = 102;
+
+        function addToCart(name, price) {
+            cart.push({ name, price });
+            total += price;
+            updateCartUI();
+        }
+
+        function updateCartUI() {
+            const list = document.getElementById('cart-items-list');
+            const count = document.getElementById('cart-count');
+            const totalPrice = document.getElementById('cart-total-price');
+
+            count.innerText = cart.length;
+            totalPrice.innerText = `S/ ${total.toFixed(2)}`;
+
+            if (cart.length === 0) {
+                list.innerHTML = '<p style="font-size: 0.85rem; color: var(--gray);">Tu carrito está vacío.</p>';
+                return;
+            }
+
+            list.innerHTML = '';
+            cart.forEach((item, index) => {
+                list.innerHTML += `
+                    <li class="cart-item">
+                        <span>${item.name}</span>
+                        <span><b>S/ ${item.price.toFixed(2)}</b></span>
+                    </li>
+                `;
+            });
+        }
+
+        function checkout() {
+            if (cart.length === 0) {
+                alert("Por favor, agrega al menos un plato a tu carrito.");
+                return;
+            }
+
+            const notes = document.getElementById('order-notes').value;
+            const orderId = `#ORD-${orderCount}`;
+            const details = cart.map(i => i.name).join(', ') + (notes ? ` (${notes})` : '');
+
+            // Add to admin panel table
+            const tbody = document.getElementById('admin-orders-list');
+            tbody.innerHTML += `
+                <tr>
+                    <td>${orderId}</td>
+                    <td>Cliente Web</td>
+                    <td>${details}</td>
+                    <td><span class="badge-status status-prep" id="st-${orderCount}">En preparación</span></td>
+                    <td>
+                        <select onchange="updateStatus('${orderCount}', this.value)">
+                            <option value="prep">En preparación</option>
+                            <option value="way">En camino</option>
+                            <option value="done">Entregado</option>
+                        </select>
+                    </td>
+                </tr>
+            `;
+
+            alert(`¡Pedido ${orderId} registrado con éxito! Puedes consultar su estado con DayanaBot.`);
+            
+            // Reset Cart
+            cart = [];
+            total = 0;
+            document.getElementById('order-notes').value = '';
+            updateCartUI();
+            orderCount++;
+        }
+
+        function updateStatus(id, value) {
+            const badge = document.getElementById(`st-${id}`);
+            if (value === 'prep') {
+                badge.className = 'badge-status status-prep';
+                badge.innerText = 'En preparación';
+            } else if (value === 'way') {
+                badge.className = 'badge-status status-way';
+                badge.innerText = 'En camino';
+            } else if (value === 'done') {
+                badge.className = 'badge-status status-done';
+                badge.innerText = 'Entregado';
+            }
+        }
+
+        // Chatbot functions
+        function toggleBot() {
+            const win = document.getElementById('bot-window');
+            win.style.display = win.style.display === 'flex' ? 'none' : 'flex';
+        }
+
+        function handleBotKey(e) {
+            if (e.key === 'Enter') sendBotMsg();
+        }
+
+        function sendBotMsg() {
+            const input = document.getElementById('bot-text');
+            const msg = input.value.trim();
+            if (!msg) return;
+
+            const chat = document.getElementById('bot-messages');
+            chat.innerHTML += `<div class="msg-user">${msg}</div>`;
+            input.value = '';
+
+            setTimeout(() => {
+                let reply = "Lo siento, no entendí tu consulta. Prueba preguntando por 'menú', 'horarios' o ingresando tu número de pedido (ej: #ORD-101).";
+                const lower = msg.toLowerCase();
+
+                if (lower.includes('menu') || lower.includes('platos') || lower.includes('precios')) {
+                    reply = "Ofrecemos 1 Pollo a la Brasa (S/ 65), 1/2 Pollo (S/ 35), 1/4 Pollo (S/ 20) y Combos Familiares. ¡Puedes agregarlos directo al carrito!";
+                } else if (lower.includes('horario') || lower.includes('atencion')) {
+                    reply = "Atendemos de Lunes a Domingo de 12:00 PM a 10:30 PM en Cusco.";
+                } else if (lower.includes('ord-101') || lower.includes('101')) {
+                    const statusText = document.getElementById('st-101').innerText;
+                    reply = `El estado actual de la orden #ORD-101 es: **${statusText}**.`;
+                } else if (lower.includes('ord-102') || lower.includes('102')) {
+                    const badge = document.getElementById('st-102');
+                    const statusText = badge ? badge.innerText : 'En preparación';
+                    reply = `El estado actual de la orden #ORD-102 es: **${statusText}**.`;
+                }
+
+                chat.innerHTML += `<div class="msg-bot">${reply}</div>`;
+                chat.scrollTop = chat.scrollHeight;
+            }, 500);
+        }
+    </script>
+</body>
+</html>
